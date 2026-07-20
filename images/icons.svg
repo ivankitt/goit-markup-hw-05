@@ -59,11 +59,6 @@
         </symbol>
         <symbol id="close" viewBox="0 0 8 8" fill="none">
             <path fill="currentColor" d="M8 0.8057 7.1943 0 4 3.1943 0.8057 0 0 0.8057 3.1943 4 0 7.1943 0.8057 8 4 4.8057 7.1943 8 8 7.1943 4.8057 4z" />
-            <defs>
-                <clipPath id="clip0_1080449_48">
-                    <rect fill="#fff" width="8" height="8" />
-                </clipPath>
-            </defs>
         </symbol>
         <symbol id="person" viewBox="0 0 18 24" fill="none">
             <path fill="currentColor" d="M9 12c1.6575 0 3-1.3425 3-3s-1.3425-3-3-3-3 1.3425-3 3 1.3425 3 3 3zM9 13.5c-2.0025 0-6 1.005-6 3v0.75C3 17.6625 3.3375 18 3.75 18h10.5c0.4125 0 0.75-0.3375 0.75-0.75V16.5c0-1.995-3.9975-3-6-3z" />
