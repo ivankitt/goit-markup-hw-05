@@ -1,0 +1,29 @@
+.features-div-svg {
+    height: 112px;
+    background-color: #f4f4fd;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 120px 0;
+}
+
+.features-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.features-list-item {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 264px;
+}
