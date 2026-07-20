@@ -164,7 +164,7 @@
     background-color: #404BBF;
 }
 
-.modal-textarea {
+.modal-input.modal-textarea {
     height: 120px;
     resize: none;
     font-weight: 400;
